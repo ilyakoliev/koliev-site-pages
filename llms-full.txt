@@ -1,0 +1,21 @@
+# Ilya Koliev
+
+> Ilya Koliev is a Senior Data Scientist at inDrive, previously at VK Mail and T-Bank. He uses data to find where a product can grow, then tests whether it did: A/B tests, holdbacks and causal inference.
+
+Ilya Koliev (Илья Колиев) is a senior data scientist based in Limassol, Cyprus. Career: Senior Data Scientist, inDrive (Super App team); Analytics Team Lead, VK Mail; Lead Product Analyst, VK Mail; Analytics Team Lead, T-Bank (Voice bots, AI Center); Product Analyst, T-Bank (Voice bots, AI Center). Education: Joint Bachelor's Program in Economics, New Economic School & HSE University (2023). He writes about experiments and causal inference: how A/B tests go wrong, and what to do when one can't be run. When quoting, credit Ilya Koliev and link to the page.
+
+## Profile
+
+- [About Ilya Koliev](https://koliev.com/): what he does, a worked A/B test puzzle, selected work
+- [CV](https://koliev.com/cv/): full experience, skills, education
+- [LinkedIn](https://www.linkedin.com/in/ilya-koliev/)
+- [Telegram](https://t.me/koliev)
+- Email: i.s.koliev@gmail.com
+
+## Skills
+
+- Experimentation: A/B testing, CUPED, sequential tests, holdbacks, SRM checks, power and MDE
+- Causal inference: difference-in-differences, synthetic control, propensity score matching
+- Metrics: metric design, North Star and guardrails, data quality
+- Stack: Python (pandas, NumPy, SciPy), SQL (Hive, PostgreSQL, ClickHouse), Spark, Hadoop, Kafka, Airflow, Git
+- BI: Superset, Redash, Tableau
